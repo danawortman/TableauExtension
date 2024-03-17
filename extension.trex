@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension manifest-version="0.1" xmlns="http://www.tableau.com/xml/extension">
+  <id>com.example.simpleextension</id>
+  <name>Simple Extension</name>
+  <description>A simple Tableau Dashboard Extension</description>
+  <version>0.1.0</version>
+  <min-api-version>2.3</min-api-version>
+  <source-location>
+    <url>https://cb776d9f-d1f6-41bc-9327-55660e211d93-00-sy4vdc1z5pwu.worf.replit.dev/index.html</url>
+  </source-location>
+</extension>
